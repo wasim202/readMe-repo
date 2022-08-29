@@ -44,7 +44,3 @@ you can finde my GitHub at:
 If you have any questions please email me at:
 
 ## ${data.email}
-
-video link:
-
-## (https://drive.google.com/file/d/1Ek3zJ3GPsOAlMEKWC26OyzBDNWQ6HCj_/view)

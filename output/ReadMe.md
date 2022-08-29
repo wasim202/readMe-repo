@@ -1,10 +1,10 @@
 # Title of the Project:
 
-# README Generator
+# README Generateor
 
 ## Description:
 
-## _A README generator made with Node.js. The user is prompted to answer questions, and the answers to the questions are taken and a .md file is created with the responses in a seperate folder_
+## _A README Generator made with node.js. the user is prompted to answer questions, and the answers to questions are taken and a .md file is created with the responses in a separate folder _
 
 ## Table of Content:
 
@@ -17,17 +17,11 @@
 
 ## installation:
 
-## 1. run command "npm i in root folder to install dependancies"
-
-## 2. run command "node index.js"
-
-## 3. start filling out the information
+## 1. run command "npm i in root folder to install dependances", thenrun command "node index.js", then start filling out the information
 
 ## Usage:
 
-## to be used for creation of README files in the Markdown file format
-
-![ReadMe Image](assets/images/ReadMeImage.png)
+## to be used for creation of README filrs in the Markdown file format
 
 ## License: ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
